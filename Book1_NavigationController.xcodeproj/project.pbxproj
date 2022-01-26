@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D752E92027A17D9E0096E0B9 /* 1.JPG in Resources */ = {isa = PBXBuildFile; fileRef = D752E91E27A17D9E0096E0B9 /* 1.JPG */; };
+		D752E92127A17D9E0096E0B9 /* 9.JPG in Resources */ = {isa = PBXBuildFile; fileRef = D752E91F27A17D9E0096E0B9 /* 9.JPG */; };
 		D799CF5A27A0215900B6DCAB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D799CF5927A0215900B6DCAB /* AppDelegate.swift */; };
 		D799CF5C27A0215900B6DCAB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D799CF5B27A0215900B6DCAB /* SceneDelegate.swift */; };
 		D799CF5E27A0215900B6DCAB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D799CF5D27A0215900B6DCAB /* ViewController.swift */; };
@@ -17,6 +19,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D752E91E27A17D9E0096E0B9 /* 1.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.JPG; sourceTree = "<group>"; };
+		D752E91F27A17D9E0096E0B9 /* 9.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 9.JPG; sourceTree = "<group>"; };
 		D799CF5627A0215900B6DCAB /* Book1_NavigationController.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Book1_NavigationController.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D799CF5927A0215900B6DCAB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D799CF5B27A0215900B6DCAB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -58,6 +62,8 @@
 		D799CF5827A0215900B6DCAB /* Book1_NavigationController */ = {
 			isa = PBXGroup;
 			children = (
+				D752E91E27A17D9E0096E0B9 /* 1.JPG */,
+				D752E91F27A17D9E0096E0B9 /* 9.JPG */,
 				D799CF5927A0215900B6DCAB /* AppDelegate.swift */,
 				D799CF5B27A0215900B6DCAB /* SceneDelegate.swift */,
 				D799CF5D27A0215900B6DCAB /* ViewController.swift */,
@@ -129,6 +135,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				D799CF6627A0215900B6DCAB /* LaunchScreen.storyboard in Resources */,
+				D752E92127A17D9E0096E0B9 /* 9.JPG in Resources */,
+				D752E92027A17D9E0096E0B9 /* 1.JPG in Resources */,
 				D799CF6327A0215900B6DCAB /* Assets.xcassets in Resources */,
 				D799CF6127A0215900B6DCAB /* Main.storyboard in Resources */,
 			);
